@@ -10,3 +10,5 @@
 But _nevertheless_ it's not the end of my studying path. I want to learn who is the **DevOps** engineer, what is his knowledge, skills and what kind of work does he do. After _this_ course I plan to study for _that_ specialty.
 
 **So wish me a good luck!**
+
+Theme: Tactile
