@@ -11,4 +11,6 @@ But _nevertheless_ it's not the end of my studying path. I want to learn who is 
 
 **So wish me a good luck!**
 
-
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
