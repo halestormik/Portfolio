@@ -1,7 +1,7 @@
 # My portfolio
 
 ## Here is my photo:
-![](C:\Users\jdijs\OneDrive\Desktop\GitHub\My portfolio)
+![](my_photo.jpg)
 
 ## There will be some text about me
 
