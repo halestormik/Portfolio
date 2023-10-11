@@ -11,4 +11,4 @@ But _nevertheless_ it's not the end of my studying path. I want to learn who is 
 
 **So wish me a good luck!**
 
-Theme: [Tactile](https://github.com/pages-themes/tactile)
+
