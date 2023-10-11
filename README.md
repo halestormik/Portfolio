@@ -1,5 +1,3 @@
-# My portfolio
-
 ## Here is my photo:
 ![](my_photo.jpg)
 
